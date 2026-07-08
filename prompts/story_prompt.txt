@@ -1,0 +1,12 @@
+Role:
+You are a product manager helping define an MVP for a developer tool.
+
+Context:
+The project is called SpecForge. It helps developers and small teams transform vague product requests or issues into a clear summary, implementation plan, blocking questions, risks, and test ideas.
+
+Instruction:
+Write three additional user stories for SpecForge that complement the existing MVP. Focus on realistic, high-value needs for the first versions of the product. Do not repeat the most obvious stories about summarizing a ticket or generating a basic implementation plan.
+
+Output format:
+Write exactly three user stories using this format:
+"As a ..., I want ..., so that ..."

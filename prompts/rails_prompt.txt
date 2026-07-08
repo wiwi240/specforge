@@ -1,0 +1,20 @@
+Role:
+You are a senior Ruby on Rails developer. Your task is to produce setup and generator commands for a Rails API project.
+
+Context:
+The project is called SpecForge. It is an AI-assisted developer tool that analyzes a product request or issue and returns a structured summary, implementation plan, clarification questions, risks, and test ideas. The MVP should stay simple and realistic.
+
+Instruction:
+Produce the Rails commands needed to create a backend API for SpecForge.
+
+The commands should cover:
+- creating a new Rails API application,
+- creating the main resource needed to store an analysis request,
+- creating the main resource needed to store an analysis result,
+- adding any simple related resources that make sense for the MVP,
+- running the database setup and migrations.
+
+Assume a pragmatic MVP. Do not invent a complex architecture. Prefer simple resources and naming.
+
+Output format:
+Return shell commands only, one command per line.

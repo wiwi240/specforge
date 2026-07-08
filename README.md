@@ -92,6 +92,30 @@ The core value of SpecForge is simple:
 - `docs/IDEAS.md`: list of ideas explored during brainstorming
 - `docs/PERSONAS.md`: target user profiles
 - `docs/USER_STORIES.md`: MVP user stories
+- `prompts/prompt_guide.md`: short guide for writing reusable prompts
+- `prompts/html_prompt.txt`: prompt for generating a landing page HTML skeleton
+- `prompts/rails_prompt.txt`: prompt for generating Rails API setup commands
+- `prompts/story_prompt.txt`: prompt for generating additional user stories
+
+## Prompt Library
+
+The `prompts/` folder contains reusable prompts prepared for the next steps of the project.
+
+Its purpose is to:
+
+- speed up code and content generation,
+- keep prompting more consistent,
+- reduce low-quality or overly generic outputs,
+- build a reusable base for future Vibecoding modules.
+
+Each file focuses on one task:
+
+- `prompt_guide.md` explains the structure of a strong prompt and summarizes zero-shot, few-shot, and chain-of-thought prompting.
+- `html_prompt.txt` is meant to generate the first HTML structure for a landing page.
+- `rails_prompt.txt` is meant to generate Rails commands for a backend MVP.
+- `story_prompt.txt` is meant to generate additional user stories in a consistent format.
+
+To use them, copy the content of a prompt file into your LLM of choice, review the output, and refine the prompt if the result is too generic or not aligned with the project constraints.
 
 ## Clone the Project
 

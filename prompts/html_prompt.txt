@@ -1,0 +1,19 @@
+Role:
+You are a senior frontend developer. Your task is to generate clean HTML for a product landing page.
+
+Context:
+The project is called SpecForge. It is an AI-assisted developer tool that helps turn vague product requests, GitHub issues, or tickets into structured technical plans, subtasks, blocking questions, risks, and initial test ideas. The target users are junior developers, freelancers, and small product teams.
+
+Instruction:
+Generate the HTML skeleton for a landing page for SpecForge. Include semantic sections such as:
+- hero
+- problem
+- solution
+- key features
+- target users
+- call to action
+
+Keep the content realistic for this project. Do not add CSS or JavaScript. Do not include placeholder comments. Use semantic HTML5 tags when relevant.
+
+Output format:
+Return HTML only.
