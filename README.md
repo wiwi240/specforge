@@ -1,63 +1,63 @@
 # specforge
 
-## Contexte
+## Context
 
-Ce projet a ete imagine dans le cadre du projet 01 de la formation vibecoding. L'objectif est de definir un premier outil de developpement assiste par IA avant de passer aux maquettes puis au code.
+This project was created as part of Project 01 in the vibecoding course. The goal is to define a first AI-assisted developer tool before moving on to mockups and code.
 
-## Idee retenue
+## Selected Idea
 
-L'outil imagine s'appelle provisoirement **SpecForge**.
+The tool is called **SpecForge**.
 
-SpecForge aide un developpeur a transformer une demande produit floue, une issue GitHub ou un ticket en:
+SpecForge helps a developer turn a vague product request, GitHub issue, or ticket into:
 
-- plan technique clair,
-- taches decoupees,
-- points de vigilance,
-- premiere proposition de tests.
+- a clear technical plan,
+- broken-down tasks,
+- key risk points,
+- a first draft of tests.
 
-## Pourquoi cette idee
+## Why This Idea
 
-J'ai retenu cette idee pour trois raisons:
+I selected this idea for three reasons:
 
-1. Elle resout un vrai probleme: beaucoup de temps est perdu a clarifier une demande avant meme de coder.
-2. La douleur utilisateur est frequente, surtout pour les profils juniors ou les petites equipes sans cadre produit fort.
-3. Le MVP est realiste: on peut commencer par analyser du texte et produire un plan, sans devoir construire un agent complexe ou un IDE complet.
+1. It solves a real problem: a lot of time is lost clarifying a request before coding even starts.
+2. The user pain is frequent, especially for junior developers and small teams without strong product structure.
+3. The MVP is realistic: it can start with text analysis and structured output without requiring a complex agent or full IDE integration.
 
-## Probleme vise
+## Problem Being Solved
 
-Quand une demande est mal definie, les developpeurs prennent de mauvaises decisions:
+When a request is poorly defined, developers make bad decisions:
 
-- scope mal compris,
-- oublis de cas limites,
-- tests insuffisants,
-- dette technique introduite trop tot.
+- misunderstood scope,
+- missed edge cases,
+- insufficient tests,
+- technical debt introduced too early.
 
-SpecForge cherche a reduire ce risque des le debut du travail.
+SpecForge aims to reduce that risk from the start of the work.
 
-## MVP envisage
+## Planned MVP
 
 Version 1:
 
-- coller une issue, un ticket ou un brief,
-- obtenir un resume de la demande,
-- obtenir une proposition de plan d'implementation,
-- obtenir une liste de questions bloquantes,
-- obtenir une premiere liste de tests a prevoir.
+- paste an issue, ticket, or brief,
+- get a summary of the request,
+- get a proposed implementation plan,
+- get a list of blocking questions,
+- get an initial list of tests to prepare.
 
-## Structure du projet
+## Project Structure
 
-- `README.md` : presentation du projet et de son contexte
-- `docs/IDEAS.md` : liste d'idees explorees pendant le brainstorming
-- `docs/PERSONAS.md` : profils utilisateurs cibles
-- `docs/USER_STORIES.md` : user stories du MVP
+- `README.md`: project presentation and context
+- `docs/IDEAS.md`: list of ideas explored during brainstorming
+- `docs/PERSONAS.md`: target user profiles
+- `docs/USER_STORIES.md`: MVP user stories
 
-## Cloner le projet
+## Clone the Project
 
 ```bash
 git clone https://github.com/wiwi240/specforge.git
 cd specforge
 ```
 
-## Etat actuel
+## Current Status
 
-Ce depot contient pour l'instant uniquement la phase de cadrage produit. Les maquettes et le code seront ajoutes dans les prochaines etapes.
+This repository currently contains only the product definition phase. Mockups and code will be added in the next steps.

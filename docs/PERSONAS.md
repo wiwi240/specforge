@@ -1,43 +1,43 @@
 # PERSONAS
 
-## Persona 1 - Lea, developpeuse web junior
+## Persona 1 - Lea, Junior Web Developer
 
-- **Profil** : 24 ans, developpeuse full-stack junior dans une petite startup
-- **Contexte** : elle recoit souvent des tickets incomplets ou ambigus
-- **Objectif** : comprendre rapidement ce qu'il faut faire avant de commencer a coder
-- **Frustrations** :
-  - peur de mal comprendre le besoin,
-  - oublie parfois des cas limites,
-  - manque de confiance pour decouper une tache seule
-- **Ce qu'elle attend de l'outil** :
-  - un resume clair de la demande,
-  - des questions a poser au product owner,
-  - un plan technique simple et actionnable
+- **Profile**: 24 years old, junior full-stack developer in a small startup
+- **Context**: she often receives incomplete or ambiguous tickets
+- **Goal**: quickly understand what needs to be done before starting to code
+- **Frustrations**:
+  - fear of misunderstanding the request,
+  - sometimes misses edge cases,
+  - lacks confidence when breaking down a task alone
+- **What she expects from the tool**:
+  - a clear summary of the request,
+  - questions to ask the product owner,
+  - a simple and actionable technical plan
 
-## Persona 2 - Karim, freelance web
+## Persona 2 - Karim, Freelance Web Developer
 
-- **Profil** : 31 ans, developpeur freelance travaillant pour plusieurs clients
-- **Contexte** : il recoit souvent des briefs peu precis par email ou message
-- **Objectif** : cadrer vite une mission pour reduire les allers-retours avec le client
-- **Frustrations** :
-  - briefs incomplets,
-  - changement de scope en cours de route,
-  - difficulte a estimer correctement une tache mal definie
-- **Ce qu'il attend de l'outil** :
-  - identifier les zones floues du besoin,
-  - structurer un plan de travail,
-  - anticiper les risques techniques et les dependances
+- **Profile**: 31 years old, freelance developer working with multiple clients
+- **Context**: he often receives vague briefs by email or message
+- **Goal**: frame a project quickly to reduce back-and-forth with the client
+- **Frustrations**:
+  - incomplete briefs,
+  - scope changes during the project,
+  - difficulty estimating a poorly defined task correctly
+- **What he expects from the tool**:
+  - identify unclear parts of the request,
+  - structure a work plan,
+  - anticipate technical risks and dependencies
 
-## Persona 3 - Ines, product builder en petite equipe
+## Persona 3 - Ines, Product Builder in a Small Team
 
-- **Profil** : 28 ans, profil hybride produit et technique
-- **Contexte** : elle redige des tickets pour des developpeurs mais n'a pas toujours le temps de les formaliser proprement
-- **Objectif** : produire des demandes plus exploitables par l'equipe
-- **Frustrations** :
-  - tickets heterogenes,
-  - manque d'alignement entre besoin produit et implementation,
-  - perte de temps dans les clarifications
-- **Ce qu'elle attend de l'outil** :
-  - une structure standard pour les demandes,
-  - une premiere liste de criteres d'acceptation,
-  - une meilleure qualite de transmission entre produit et technique
+- **Profile**: 28 years old, hybrid product and technical profile
+- **Context**: she writes tickets for developers but does not always have time to formalize them properly
+- **Goal**: create requests that are easier for the team to execute
+- **Frustrations**:
+  - inconsistent tickets,
+  - lack of alignment between product intent and implementation,
+  - wasted time during clarification
+- **What she expects from the tool**:
+  - a standard structure for requests,
+  - an initial list of acceptance criteria,
+  - better handoff quality between product and engineering

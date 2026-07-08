@@ -1,11 +1,11 @@
 # USER STORIES
 
-1. En tant que developpeuse junior, je veux coller un ticket produit dans l'outil afin d'obtenir un resume clair du besoin.
+1. As a junior developer, I want to paste a product ticket into the tool so that I can get a clear summary of the request.
 
-2. En tant que freelance, je veux que l'outil me signale les zones floues d'un brief afin de poser les bonnes questions avant de chiffrer la mission.
+2. As a freelancer, I want the tool to highlight unclear parts of a brief so that I can ask the right questions before estimating the project.
 
-3. En tant que developpeur, je veux recevoir un plan d'implementation decoupe en sous-taches afin de demarrer plus vite et avec moins d'ambiguite.
+3. As a developer, I want to receive an implementation plan broken down into subtasks so that I can start faster with less ambiguity.
 
-4. En tant que developpeur, je veux obtenir une premiere liste de tests et de cas limites afin de reduire les oublis pendant le developpement.
+4. As a developer, I want to get an initial list of tests and edge cases so that I can reduce omissions during development.
 
-5. En tant que product builder, je veux transformer une demande informelle en ticket structure afin d'ameliorer la transmission vers l'equipe technique.
+5. As a product builder, I want to turn an informal request into a structured ticket so that I can improve the handoff to the engineering team.

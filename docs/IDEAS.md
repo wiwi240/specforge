@@ -1,56 +1,56 @@
 # IDEAS
 
-## Liste d'idees generees pendant le brainstorming
+## Ideas Generated During Brainstorming
 
-1. **Generateur de tests unitaires**
-   Produit des cas de tests a partir d'une fonction ou d'un composant.
-2. **Assistant de messages de commit**
-   Propose des commits clairs a partir des changements detectes.
-3. **Lecteur de pull request**
-   Resume une PR, souligne les risques et propose des points de review.
-4. **Assistant de refactorisation**
-   Detecte du code trop complexe et suggere une simplification.
-5. **Generateur de documentation technique**
-   Produit une documentation de base a partir du code et de sa structure.
-6. **Analyseur d'issues produit**
-   Transforme une demande floue en specification technique exploitable.
-7. **Coach de debugging**
-   Aide a formuler des hypotheses de cause racine a partir des logs et erreurs.
-8. **Assistant de migration legacy**
-   Propose un plan progressif pour moderniser un ancien module.
-9. **Estimateur de complexite**
-   Donne une estimation de difficulte et signale les zones de risque.
-10. **Generateur de jeux de donnees de test**
-    Cree des fixtures coherentes pour developpement local et tests.
+1. **Unit Test Generator**
+   Produces test cases from a function or component.
+2. **Commit Message Assistant**
+   Suggests clear commit messages based on detected changes.
+3. **Pull Request Reader**
+   Summarizes a PR, highlights risks, and suggests review points.
+4. **Refactoring Assistant**
+   Detects overly complex code and suggests simplifications.
+5. **Technical Documentation Generator**
+   Produces basic documentation from code and project structure.
+6. **Product Issue Analyzer**
+   Turns a vague request into an actionable technical specification.
+7. **Debugging Coach**
+   Helps formulate root-cause hypotheses from logs and error messages.
+8. **Legacy Migration Assistant**
+   Proposes a progressive plan to modernize an old module.
+9. **Complexity Estimator**
+   Gives a difficulty estimate and highlights risk areas.
+10. **Test Data Generator**
+    Creates consistent fixtures for local development and testing.
 
-## Idee retenue
+## Selected Idea
 
-J'ai retenu l'idee **Analyseur d'issues produit**, que je renomme **SpecForge** pour le projet.
+I selected the **Product Issue Analyzer** idea, which I renamed **SpecForge** for this project.
 
-## Pourquoi ce choix
+## Why This Choice
 
-Cette idee me parait plus pertinente que les autres pour un premier projet:
+This idea seems more relevant than the others for a first project:
 
-- elle adresse une douleur concrete et frequente,
-- elle a un scope MVP raisonnable,
-- elle peut apporter de la valeur rapidement sans necessiter une integration lourde,
-- elle aide a mieux penser avant de coder, ce qui limite les erreurs de comprehension.
+- it addresses a concrete and frequent pain point,
+- it has a reasonable MVP scope,
+- it can deliver value quickly without requiring heavy integration,
+- it helps developers think better before coding, which reduces misunderstanding.
 
-## Evaluation rapide de l'idee retenue
+## Quick Evaluation of the Selected Idea
 
-1. **Vrai probleme resolu**
-   Les demandes floues ralentissent le developpement et produisent de mauvaises decisions techniques.
-2. **Niveau de douleur utilisateur**
-   Moyen a eleve, surtout pour les juniors, freelances et petites equipes.
-3. **Frequence d'usage**
-   Elevee, car presque chaque tache commence par une phase de comprehension.
-4. **Pertinence marche**
-   Bonne, car les equipes cherchent deja a accelerer la phase de cadrage.
-5. **Faisabilite technique**
-   Bonne pour un MVP base sur l'analyse de texte.
-6. **Scope MVP**
-   Limite et realiste: input texte, sortie structuree, sans automatisation complexe.
-7. **Risques d'echec**
-   Risque de sorties trop generiques si le prompt et la structure ne sont pas bien cadres.
-8. **Alternative plus pertinente**
-   Un coach de debugging serait aussi utile, mais plus difficile a rendre fiable sans contexte riche.
+1. **Real Problem Solved**
+   Vague requests slow development down and lead to poor technical decisions.
+2. **User Pain Level**
+   Medium to high, especially for junior developers, freelancers, and small teams.
+3. **Usage Frequency**
+   High, because almost every task starts with a clarification phase.
+4. **Market Relevance**
+   Good, because teams already want to speed up early technical framing.
+5. **Technical Feasibility**
+   Good for a text-analysis-based MVP.
+6. **MVP Scope**
+   Limited and realistic: text input, structured output, no complex automation.
+7. **Risk of Failure**
+   The main risk is producing generic outputs if the prompting and response structure are weak.
+8. **More Relevant Alternative**
+   A debugging coach would also be useful, but it would be harder to make reliable without richer context.
