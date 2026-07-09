@@ -92,6 +92,9 @@ The core value of SpecForge is simple:
 - `docs/IDEAS.md`: list of ideas explored during brainstorming
 - `docs/PERSONAS.md`: target user profiles
 - `docs/USER_STORIES.md`: MVP user stories
+- `front/index.html`: homepage structure
+- `front/style.css`: homepage styles
+- `front/script.js`: homepage interaction
 - `prompts/prompt_guide.md`: short guide for writing reusable prompts
 - `prompts/html_prompt.txt`: prompt for generating a landing page HTML skeleton
 - `prompts/rails_prompt.txt`: prompt for generating Rails API setup commands
@@ -124,6 +127,24 @@ git clone https://github.com/wiwi240/specforge.git
 cd specforge
 ```
 
+## Frontend Page
+
+The repository now includes a first static homepage in the `front/` folder.
+
+Open it locally with:
+
+```bash
+open front/index.html
+```
+
+If `open` is not available on your system, open the file directly in your browser.
+
+Files:
+
+- `front/index.html`: semantic HTML structure for the homepage
+- `front/style.css`: visual styling for layout, colors, spacing, and typography
+- `front/script.js`: JavaScript behavior for the "En savoir plus" button
+
 ## Current Status
 
-This repository currently contains only the product definition phase. Mockups and code will be added in the next steps.
+This repository now contains the product definition phase and a first static frontend page for SpecForge.
