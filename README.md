@@ -92,6 +92,9 @@ The core value of SpecForge is simple:
 - `docs/IDEAS.md`: list of ideas explored during brainstorming
 - `docs/PERSONAS.md`: target user profiles
 - `docs/USER_STORIES.md`: MVP user stories
+- `backend/commands.md`: Rails API setup commands for the backend MVP
+- `backend/routes.rb`: example Rails routes for the main resource
+- `backend/README.md`: backend architecture notes
 - `front/index.html`: homepage structure
 - `front/style.css`: homepage styles
 - `front/script.js`: homepage interaction
@@ -145,6 +148,16 @@ Files:
 - `front/style.css`: visual styling for layout, colors, spacing, and typography
 - `front/script.js`: JavaScript behavior for the "En savoir plus" button
 
+## Backend Preparation
+
+The repository also includes a `backend/` folder used to prepare the future Rails API structure.
+
+Files:
+
+- `backend/commands.md`: Rails commands to create the API application and main resource
+- `backend/routes.rb`: example route declaration for the main resource
+- `backend/README.md`: short explanation of Rails, MVC, and the backend organization
+
 ## Current Status
 
-This repository now contains the product definition phase and a first static frontend page for SpecForge.
+This repository now contains the product definition phase, a first static frontend page, and backend preparation files for a future Rails API.
